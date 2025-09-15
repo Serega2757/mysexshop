@@ -2,8 +2,8 @@ name: Update YML feed
 
 on:
   schedule:
-    - cron: "0 * * * *"   # щогодини
-  workflow_dispatch:      # запуск вручну
+    - cron: "0 * * * *"   # запуск щогодини
+  workflow_dispatch:      # можливість запускати вручну
 
 jobs:
   update:
@@ -15,11 +15,11 @@ jobs:
           fetch-depth: 0
 
       - name: Download YML from Google Apps Script
-  run: |
-    curl -L "https://script.google.com/macros/s/AKfycbwm-9xxZHaeUNxW2jv23yS8OxM-NU__HnfhTLd9_j67s-UedBPe4uXcJAy7qtV9YZhU/exec" | iconv -f windows-1251 -t utf-8 > products_feed.yml
+        run: |
+          curl -L "https://script.google.com/macros/s/AKfycbwm-9xxZHaeUNxW2jv23yS8OxM-NU__HnfhTLd9_j67s-UedBPe4uXcJAy7qtV9YZhU/exec" | iconv -f windows-1251 -t utf-8 > products_feed.yml
 
       - name: Commit & push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update feed [skip ci]"
-          file_pattern: products_feed.yml 
+          file_pattern: products_feed.yml
