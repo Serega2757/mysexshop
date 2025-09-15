@@ -17,7 +17,7 @@ jobs:
       # 1) Качаємо твій фід і зберігаємо як XML
       - name: Download feed as XML (UTF-8)
         run: |
-          curl -L "https://script.google.com/macros/s/AKfycbxNg1-_d7ujX2ynatXjLDgNqbWouMArLAMW9PonbR9m9cFbGkJHmj152IeteBu1x3tB/exec" -o products_feed.xml
+          curl -L "https://script.google.com/macros/s/AKfycbw84D1xhS6igzEThyTISkibz-3Gb6yxOcydNw26CTyLTzqPAPBcAcBm3_h6JVrhaBia/exec" -o products_feed.xml
 
       # 2) Створюємо .yml з UTF-8 BOM (щоб і браузер, і сервіси читали як UTF-8)
       - name: Make YML with UTF-8 BOM
