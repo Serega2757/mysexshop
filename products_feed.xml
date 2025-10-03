@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-03 14:17">
+<yml_catalog date="2025-10-03 15:42">
   <shop>
     <name>websklad</name>
     <company>websklad</company>
@@ -931,7 +931,7 @@
       </offer>
       <offer id="X00001137" available="true">
         <vendorCode>X00001137</vendorCode>
-        <price>3620</price>
+        <price>3511</price>
         <url>https://mysex.in.ua/p2661342725-silikonovaya-seks-kukla.html</url>
         <currencyId>UAH</currencyId>
         <categoryId>105010129</categoryId>
@@ -22278,32 +22278,6 @@ L - 4*12 (см)
         <picture>https://images.prom.ua/4111769505_lateksnaya-mini-yubka-.jpg</picture>
         <picture>https://images.prom.ua/4111769503_lateksnaya-mini-yubka-.jpg</picture>
         <picture>https://images.prom.ua/4111769504_lateksnaya-mini-yubka-.jpg</picture>
-      </offer>
-      <offer id="X0000507-2" available="true">
-        <vendorCode>X0000507-2</vendorCode>
-        <price>203</price>
-        <url>https://mysex.in.ua/p1719111838-kostyum-vostochnoj-tantsovschitsy.html</url>
-        <currencyId>UAH</currencyId>
-        <categoryId>105010124</categoryId>
-        <name>Костюм &quot;Восточной танцовщицы&quot; - S/M/L - Красный – Ролевые костюмы</name>
-        <quantity_in_stock>4</quantity_in_stock>
-        <name_ua>Костюм &quot;Східної танцівниці&quot; - S/M/L - Червоний – Рольові костюми</name_ua>
-        <description><![CDATA[Разве нужен повод, чтобы порадовать себя и свою вторую половинку?
-
-Только представь как круто это будет смотреться на тебе!
-Подходит на размер: S/M/L.]]></description>
-        <description_ua><![CDATA[Хіба потрібен привід, щоб порадувати себе та свою другу половинку?
-
-Тільки уяви як круто це виглядатиме на тобі!
-
-Підходить до розміру: S/M/L.]]></description_ua>
-        <picture>https://images.prom.ua/4219227767_kostyum-vostochnoj-tantsovschitsy.jpg</picture>
-        <picture>https://images.prom.ua/4219227766_kostyum-vostochnoj-tantsovschitsy.jpg</picture>
-        <picture>https://images.prom.ua/4219227764_kostyum-vostochnoj-tantsovschitsy.jpg</picture>
-        <picture>https://images.prom.ua/4219227765_kostyum-vostochnoj-tantsovschitsy.jpg</picture>
-        <picture>https://images.prom.ua/3589866710_kostyum-vostochnoj-tantsovschitsy.jpg</picture>
-        <picture>https://images.prom.ua/4110954510_kostyum-vostochnoj-tantsovschitsy.jpg</picture>
-        <picture>https://images.prom.ua/3589866048_kostyum-vostochnoj-tantsovschitsy.jpg</picture>
       </offer>
       <offer id="X0000507-1" available="true">
         <vendorCode>X0000507-1</vendorCode>
