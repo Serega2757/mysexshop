@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-18 14:16">
+<yml_catalog date="2025-10-18 15:40">
   <shop>
     <name>websklad</name>
     <company>websklad</company>
@@ -20686,6 +20686,24 @@ Funny Egg бажає вам приємної подорожі у світ чут
         <picture>https://images.prom.ua/4500371772_meshochek-dlya-hraneniya.jpg</picture>
         <picture>https://images.prom.ua/4500371775_meshochek-dlya-hraneniya.jpg</picture>
         <picture>https://images.prom.ua/4500371770_meshochek-dlya-hraneniya.jpg</picture>
+      </offer>
+      <offer id="X0000642" available="true">
+        <vendorCode>X0000642</vendorCode>
+        <price>113</price>
+        <url>https://mysex.in.ua/p1839208213-muzhskie-leopardovye-stringi.html</url>
+        <currencyId>UAH</currencyId>
+        <categoryId>105010129</categoryId>
+        <name>Мужские леопардовые стринги</name>
+        <name_ua>Чоловічі леопардові стринги</name_ua>
+        <description><![CDATA[Эротические мужские трусы Playful Еlephants - это отличный вариант, который удивит партнершу, а также даст возможность весело провести время. Мягкий материал приятен телу, изделие очень комфортное. 
+Размер универсальный, подходит на: M, L, XL.
+Цвет: Леопард]]></description>
+        <description_ua><![CDATA[Еротичні чоловічі труси Playful Еlephants — це чудовий варіант, який здивує партнера, а також дасть можливість весело провести час. М'який матеріал приємний тілу, виріб дуже комфортний.
+\n
+\nРозмір універсальний, підходить на: M, L, XL.
+\n
+\nКолір: Леопард]]></description_ua>
+        <picture>https://images.prom.ua/4500269933_muzhskie-leopardovye-stringi.jpg</picture>
       </offer>
       <offer id="X0000641-1" available="true">
         <vendorCode>X0000641-1</vendorCode>
