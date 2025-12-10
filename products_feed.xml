@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-10 10:33">
+<yml_catalog date="2025-12-10 11:28">
   <shop>
     <name>mysex</name>
     <company>mysex</company>
@@ -25758,31 +25758,6 @@ L - 4*12 (см)
         <picture>https://images.prom.ua/3997103098_obruch-s-puhom.jpg</picture>
         <picture>https://images.prom.ua/3997103100_obruch-s-puhom.jpg</picture>
         <picture>https://images.prom.ua/3997103099_obruch-s-puhom.jpg</picture>
-      </offer>
-      <offer id="X0000462" available="true">
-        <price>154</price>
-        <vendorCode>X0000462</vendorCode>
-        <url>https://mysex.in.ua/p1682255845-muzhskoj-novogodnij-bodi.html</url>
-        <currencyId>UAH</currencyId>
-        <categoryId>105010129</categoryId>
-        <name>Мужской новогодний боди &quot;Снеговичёк&quot; - Белый - M/2XL.</name>
-        <quantity_in_stock>20</quantity_in_stock>
-        <name_ua>Чоловічий новорічний боді &quot;Сніговичок&quot; - Білий - M/2XL.</name_ua>
-        <description><![CDATA[Отличный вариант новогоднего подарка своему партнёру.
-
-Отличное качество, очень хорошо тянется. Эластичные резинки делают трусы универсальными по размеру. Сделаны из приятного для тела материала.
-
-Размер универсальный, подходит от M до 2XL.]]></description>
-        <description_ua><![CDATA[Відмінний варіант новорічного подарунка своєму партнеру.
-
-Відмінна якість, дуже добре тягнеться. Еластичні резинки роблять труси універсальними за розміром. Зроблені з приємного для тіла матеріалу.
-
-Розмір універсальний, підходить від M до 2XL.]]></description_ua>
-        <picture>https://images.prom.ua/3995247916_muzhskoj-novogodnij-bodi.jpg</picture>
-        <picture>https://images.prom.ua/3995247918_muzhskoj-novogodnij-bodi.jpg</picture>
-        <picture>https://images.prom.ua/3995247915_muzhskoj-novogodnij-bodi.jpg</picture>
-        <picture>https://images.prom.ua/3995247917_muzhskoj-novogodnij-bodi.jpg</picture>
-        <picture>https://images.prom.ua/3995247914_muzhskoj-novogodnij-bodi.jpg</picture>
       </offer>
       <offer id="X0000461" available="true">
         <price>321</price>
