@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-11 18:35">
+<yml_catalog date="2025-12-11 19:28">
   <shop>
     <name>mysex</name>
     <company>mysex</company>
@@ -28671,6 +28671,33 @@ L - 4*12 (см)
         <picture>https://images.prom.ua/3429253145_nasadka-dlya-uvelicheniya.jpg</picture>
         <picture>https://images.prom.ua/4386177700_nasadka-dlya-uvelicheniya.jpg</picture>
       </offer>
+      <offer id="X0000080-2" available="true">
+        <price>99</price>
+        <vendorCode>X0000080-2</vendorCode>
+        <url>https://mysex.in.ua/p1618750450-muzhskie-stringi-kombinezon.html</url>
+        <currencyId>UAH</currencyId>
+        <categoryId>105010129</categoryId>
+        <name>Мужские стринги комбинезон - Красный - М/L</name>
+        <name_ua>Чоловічі стрінги комбінезон - Червоний - М/L</name_ua>
+        <description><![CDATA[Отличный вариант подарка своему партнёру.
+
+Очень хорошо тянется. Эластичные резинки делают трусы универсальными по размеру. Сделаны из приятного для тела материала.
+
+Размер универсальный, подходит от M до L. 
+
+Цвет: красный]]></description>
+        <description_ua><![CDATA[Чудовий варіант подарунка своєму партнеру.
+
+Дуже добре тягнеться. Еластичні резинки роблять труси універсальними за розміром. Зроблені з приємного для тіла матеріалу.
+
+Розмір універсальний, підходить від M до L. 
+
+Колір: червоний]]></description_ua>
+        <picture>https://images.prom.ua/4093305844_muzhskie-stringi-kombinezon.jpg</picture>
+        <picture>https://images.prom.ua/4093305849_muzhskie-stringi-kombinezon.jpg</picture>
+        <picture>https://images.prom.ua/4093305848_muzhskie-stringi-kombinezon.jpg</picture>
+        <picture>https://images.prom.ua/4093305846_muzhskie-stringi-kombinezon.jpg</picture>
+      </offer>
       <offer id="X0000072-2" available="true">
         <price>28</price>
         <vendorCode>X0000072-2</vendorCode>
@@ -35318,51 +35345,6 @@ L - 4*12 (см)
 Матеріал: силікон, пластик.]]></description_ua>
         <picture>https://images.prom.ua/3272594300_vibrator-volshebnaya-palochka.jpg</picture>
         <picture>https://images.prom.ua/3272594301_vibrator-volshebnaya-palochka.jpg</picture>
-      </offer>
-      <offer id="X00000098-2" available="true">
-        <price>374</price>
-        <vendorCode>X00000098-2</vendorCode>
-        <url>https://mysex.in.ua/p1559966972-vibrator-volshebnaya-palochka.html</url>
-        <currencyId>UAH</currencyId>
-        <categoryId>105010128</categoryId>
-        <name>Вибратор &quot;Волшебная палочка&quot; USB - Фиолетовый – Вибраторы</name>
-        <name_ua>Вібратор &quot;Чарівна паличка&quot; USB  - Фіолетовий - Вібратори</name_ua>
-        <description><![CDATA[Многоскоростной мощный силиконовый вибратор в стиле "Волшебная палочка" для клиторальной мастурбации с гнущейся головкой и ручкой c перфорацией ромбы, перезаряжаемый аккумулятор.
-
-Цвет: фиолетовый
-
-Размер: высота - 19,8 см., высота головки - 4,5 см., диаметр головки - 4,2 см.
-
-Вес: 130 грамм.
-
-Скорость - 10 режимов.
-
-Уровень звука: &lt;50 дБ.
-
-Зарядка от usb-кабеля - в комплекте
-
-штекер в розетку - не включен в комплект.
-
-Материал: силикон, пластик.]]></description>
-        <description_ua><![CDATA[Багатошвидкісний потужний силіконовий вібратор у стилі "Чарівна паличка" для кліторальної мастурбації з голівкою, що гнеться, та ручкою з перфорацією ромби, перезаряджаємий акумулятор.
-
-Колір: фіолетовий
-
-Розмір: висота - 19,8 см, висота голівки - 4,5 см, діаметр голівки - 4,2 см.
-
-Вага: 130 грам.
-
-Швидкість - 10 режимів.
-
-Рівень звуку: &lt;50 дБ.
-
-Зарядка від usb-кабелю - у комплекті
-
-штекер у розетку - не входить до комплекту.
-
-Матеріал: силікон, пластик.]]></description_ua>
-        <picture>https://images.prom.ua/3272594298_vibrator-volshebnaya-palochka.jpg</picture>
-        <picture>https://images.prom.ua/3272594299_vibrator-volshebnaya-palochka.jpg</picture>
       </offer>
       <offer id="X0000053-1" available="true">
         <price>365</price>
