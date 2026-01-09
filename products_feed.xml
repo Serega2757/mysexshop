@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-09 10:35">
+<yml_catalog date="2026-01-09 11:31">
   <shop>
     <name>mysex</name>
     <company>mysex</company>
@@ -13869,28 +13869,6 @@ Translated with DeepL.com (free version)]]></description_ua>
         <picture>https://images.prom.ua/5233652604_parik-rovnyj-anime.jpg</picture>
         <picture>https://images.prom.ua/5233652614_parik-rovnyj-anime.jpg</picture>
       </offer>
-      <offer id="X0000862-2" available="true">
-        <price>391</price>
-        <vendorCode>X0000862-2</vendorCode>
-        <url>https://mysex.in.ua/p2053900023-parik-rovnyj-anime.html</url>
-        <currencyId>UAH</currencyId>
-        <categoryId>120703744</categoryId>
-        <name>Парик ровный аниме 70см без челки &quot;Блондинка&quot;</name>
-        <quantity_in_stock>15</quantity_in_stock>
-        <name_ua>Перука рівна аніме 70 см без чубчика  &quot;Блондинка&quot;</name_ua>
-        <description><![CDATA[Такой парик станет главным штрихом вашего праздничного или тематического образа. Длинные волосы способны моментально превратить в сказочного персонажа любую девушку или парня.
-
-Без челки
-
-Отличное качество делает волосы очень похожими на натуральные - как внешне, так и на ощупь.]]></description>
-        <description_ua><![CDATA[Така перука стане головним штрихом вашого святкового або тематичного образу. Довге волосся здате миттєво перетворити на казкового персонажа будь-яку дівчину чи хлопця.
-
-Без чубчика 
-
-Чудова якість робить волосся дуже схожим на натуральні — як зовні, так і на дотик.]]></description_ua>
-        <picture>https://images.prom.ua/5233619030_parik-rovnyj-anime.jpg</picture>
-        <picture>https://images.prom.ua/5233619032_parik-rovnyj-anime.jpg</picture>
-      </offer>
       <offer id="X0000862-1" available="true">
         <price>391</price>
         <vendorCode>X0000862-1</vendorCode>
@@ -18575,24 +18553,6 @@ Funny Egg бажає вам приємної подорожі у світ чут
         <picture>https://images.prom.ua/4808466177_effektnyj-bodi-s.jpg</picture>
         <picture>https://images.prom.ua/4808466178_effektnyj-bodi-s.jpg</picture>
       </offer>
-      <offer id="X0000738-1" available="true">
-        <price>137</price>
-        <vendorCode>X0000738-1</vendorCode>
-        <url>https://mysex.in.ua/p1930558726-effektnyj-bodi-otkrytoj.html</url>
-        <currencyId>UAH</currencyId>
-        <categoryId>105010125</categoryId>
-        <name>Эффектный боди с открытой спиной и длинными рукавами - Черный - S/M/L – Эротическое бельё</name>
-        <quantity_in_stock>16</quantity_in_stock>
-        <name_ua>Ефектний боді з відкритою спиною та довгими рукавами - Чорний - S/M/L - Еротична білизна</name_ua>
-        <description><![CDATA[Сексуальное боди, с помощью которого вы сможете соблазнить любого мужчину. Сам боди выполнен из нежного, эластичного и мягкого материала спандекса. Боди приятное к телу и не стеснит ваши движения.
-
-Размер универсальный, подходит на: S/M/L.]]></description>
-        <description_ua><![CDATA[Сексуальне боді, за допомогою якого ви зможете спокусити будь-якого чоловіка. Сам боді виконаний з ніжного, еластичного і м'якого матеріалу спандекса. Боді приємне до тіла і не обмежить ваші рухи.
-
-Розмір універсальний, підходить на: S/M/L.]]></description_ua>
-        <picture>https://images.prom.ua/4808463656_effektnyj-bodi-s.jpg</picture>
-        <picture>https://images.prom.ua/4808463655_effektnyj-bodi-s.jpg</picture>
-      </offer>
       <offer id="X0000737" available="true">
         <price>350</price>
         <vendorCode>X0000737</vendorCode>
@@ -19829,6 +19789,27 @@ Funny Egg бажає вам приємної подорожі у світ чут
         <picture>https://images.prom.ua/4622050459_seksualnye-trusiki-s.jpg</picture>
         <picture>https://images.prom.ua/4622063259_seksualnye-trusiki-s.jpg</picture>
         <picture>https://images.prom.ua/4622063257_seksualnye-trusiki-s.jpg</picture>
+      </offer>
+      <offer id="X0000698-1" available="true">
+        <price>124</price>
+        <vendorCode>X0000698-1</vendorCode>
+        <url>https://mysex.in.ua/p1875720511-seksualnye-trusiki-bantom.html</url>
+        <currencyId>UAH</currencyId>
+        <categoryId>105010125</categoryId>
+        <name>Сексуальные трусики с бантом - Красный - S/M – Эротическое бельё</name>
+        <quantity_in_stock>17</quantity_in_stock>
+        <name_ua>Сексуальні трусики з бантом - Червоний - S/M - Еротична білизна</name_ua>
+        <description><![CDATA[Удивите девушку крутыми трусиками с красивым бантом.
+
+Размер универсальный, подходит на: S/M]]></description>
+        <description_ua><![CDATA[Здивуйте дівчину крутими трусиками з красивим бантом.
+
+Розмір універсальний, підходить на: S/M]]></description_ua>
+        <picture>https://images.prom.ua/4622050461_seksualnye-trusiki-s.jpg</picture>
+        <picture>https://images.prom.ua/4622050463_seksualnye-trusiki-s.jpg</picture>
+        <picture>https://images.prom.ua/4622050459_seksualnye-trusiki-s.jpg</picture>
+        <picture>https://images.prom.ua/4622050462_seksualnye-trusiki-s.jpg</picture>
+        <picture>https://images.prom.ua/4622050460_seksualnye-trusiki-s.jpg</picture>
       </offer>
       <offer id="X0000629-3" available="true">
         <price>48</price>
@@ -29809,35 +29790,6 @@ L - 4*12 (см)
         <picture>https://images.prom.ua/4220153309_mini-plate-s-narukavnikami.jpg</picture>
         <picture>https://images.prom.ua/4219123290_mini-plate-s-narukavnikami.jpg</picture>
         <picture>https://images.prom.ua/4219123288_mini-plate-s-narukavnikami.jpg</picture>
-      </offer>
-      <offer id="X00000224-4" available="true">
-        <price>123</price>
-        <vendorCode>X00000224-4</vendorCode>
-        <url>https://mysex.in.ua/p1630695964-besproigryshnyj-komplekt-chulkami.html</url>
-        <currencyId>UAH</currencyId>
-        <categoryId>105010125</categoryId>
-        <name>Беспроигрышный комплект с чулками и поясом для чулок - Розовый – Эротическое бельё</name>
-        <name_ua>Безпрограшний комплект з панчохами та поясом для панчіх - Рожевий - Еротична білизна</name_ua>
-        <description><![CDATA[Безпроигрышный набор с чулками!
-
-В комплект входят: трусики, лиф, чулки, пояс для чулок
-
-Материал: 80% полиамид, 20% эластан.
-
-Цвет: розовый
-
-Подходит на размер: XS-S]]></description>
-        <description_ua><![CDATA[Безпрограшний набір із панчохами!
-
-До комплекту входять: трусики, ліф, панчохи, пояс для панчіх
-
-Матеріал: 80% поліамід, 20% еластан.
-
-Колір: рожевий 
-
-Підходить на розмір: XS-S]]></description_ua>
-        <picture>https://images.prom.ua/3827204183_besproigryshnyj-komplekt-s.jpg</picture>
-        <picture>https://images.prom.ua/3404505546_besproigryshnyj-komplekt-s.jpg</picture>
       </offer>
       <offer id="X00000224-1" available="true">
         <price>123</price>
