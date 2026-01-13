@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-13 16:29">
+<yml_catalog date="2026-01-13 17:29">
   <shop>
     <name>mysex</name>
     <company>mysex</company>
@@ -20327,6 +20327,31 @@ Funny Egg бажає вам приємної подорожі у світ чут
         <picture>https://images.prom.ua/4550347216_kolgotki-s-imitatsiej.jpg</picture>
         <picture>https://images.prom.ua/4550347213_kolgotki-s-imitatsiej.jpg</picture>
       </offer>
+      <offer id="X0000677-1" available="true">
+        <price>95</price>
+        <vendorCode>X0000677-1</vendorCode>
+        <url>https://mysex.in.ua/p1854903374-kolgotki-imitatsiej-chulok.html</url>
+        <currencyId>UAH</currencyId>
+        <categoryId>105010125</categoryId>
+        <name>Колготки с имитацией чулок &quot;Колготы-чулки&quot; - Чёрный - 2/3/4 (S/M/L) – Эротическое бельё</name>
+        <quantity_in_stock>31</quantity_in_stock>
+        <name_ua>Колготки з імітацією панчіх &quot;Колготи-панчохи&quot; - Чорний - 2/3/4 (S/M/L) - Еротична білизна</name_ua>
+        <description><![CDATA[Колготы-чулки выполнены в качестве единого изделия: чулки с поясом. Никаких ремешков и застежек, просто одеваются, как обычные колготы. Как и любые колготки, эти колготы-чулки подходят практически на любой размер, благодаря своей высокой эластичности.
+
+
+
+Размер: 2/3/4 (S/M/L)
+
+Упаковано в прозрачный полиэтиленовый пакет с основой-картоном]]></description>
+        <description_ua><![CDATA[Колготи-панчохи виконані як єдиний виріб: панчохи з поясом. Ніяких ремінців і застібок, просто одягаються, як звичайні колготи. Як і будь-які колготки, ці колготи-панчохи підходять практично на будь-який розмір, завдяки своїй високій еластичності.
+
+Розмір: 2/3/4 (S/M/L)
+
+Упаковано в прозорий поліетиленовий пакет з основою-картоном]]></description_ua>
+        <picture>https://images.prom.ua/4669579696_kolgotki-s-imitatsiej.jpg</picture>
+        <picture>https://images.prom.ua/4669579664_kolgotki-s-imitatsiej.jpg</picture>
+        <picture>https://images.prom.ua/4669579749_kolgotki-s-imitatsiej.jpg</picture>
+      </offer>
       <offer id="X0000676-1" available="true">
         <price>108</price>
         <vendorCode>X0000676-1</vendorCode>
@@ -25261,6 +25286,43 @@ L - 4*12 (см)
         <picture>https://images.prom.ua/4202068886_eroticheskij-kruzhevnoj-komplekt.jpg</picture>
         <picture>https://images.prom.ua/4202068887_eroticheskij-kruzhevnoj-komplekt.jpg</picture>
         <picture>https://images.prom.ua/4202068890_eroticheskij-kruzhevnoj-komplekt.jpg</picture>
+      </offer>
+      <offer id="X0000533" available="true">
+        <price>59</price>
+        <vendorCode>X0000533</vendorCode>
+        <url>https://mysex.in.ua/p1743310009-kolgoty-srednyuyu-setku.html</url>
+        <currencyId>UAH</currencyId>
+        <categoryId>105010125</categoryId>
+        <name>Колготы в среднюю сетку - Чёрный - 2/3/4/5 (S/M/L/XL) – Эротическое бельё</name>
+        <quantity_in_stock>35</quantity_in_stock>
+        <name_ua>Колготи в середню сітку - Чорний - 2/3/4/5 (S/M/L/XL) - Еротична білизна</name_ua>
+        <description><![CDATA[Хочешь сразить своего мужчину? Это именно то что тебе нужно!
+
+Колготки в сетку с поясом-резинкой.
+
+Размер универсальный, подходит на 2/3/4/5 (S/M/L/XL)
+
+Рост: 155-180 см
+
+Длина колгот: 80-110 см
+
+Колготками идеально дополнять сексуальный образ или костюм для ролевых игр, что сделает вечер незабываемым.]]></description>
+        <description_ua><![CDATA[Хочеш убити свого чоловіка? Це саме те що тобі потрібно!
+
+Колготки в сітку з поясом-гумкою.
+
+Розмір універсальний, підходить на 2/3/4/5 (S/M/L/XL)
+
+Зріст: 155-180 см
+
+Довжина колгот: 80-110 см
+
+Колготками ідеально доповнювати сексуальний образ або костюм для рольових ігор, що зробить вечір незабутнім.]]></description_ua>
+        <picture>https://images.prom.ua/4186229883_kolgoty-v-srednyuyu.jpg</picture>
+        <picture>https://images.prom.ua/4186229884_kolgoty-v-srednyuyu.jpg</picture>
+        <picture>https://images.prom.ua/4186229882_kolgoty-v-srednyuyu.jpg</picture>
+        <picture>https://images.prom.ua/4186229881_kolgoty-v-srednyuyu.jpg</picture>
+        <picture>https://images.prom.ua/4186229885_kolgoty-v-srednyuyu.jpg</picture>
       </offer>
       <offer id="X0000532" available="true">
         <price>59</price>
