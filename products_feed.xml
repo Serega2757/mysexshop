@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-21 17:36">
+<yml_catalog date="2026-01-21 18:56">
   <shop>
     <name>mysex</name>
     <company>mysex</company>
@@ -34939,6 +34939,26 @@ L - 4*12 (см)
         <picture>https://images.prom.ua/4219188013_rolevoj-kostyum-medsestry.jpg</picture>
         <picture>https://images.prom.ua/4219188007_rolevoj-kostyum-medsestry.jpg</picture>
         <picture>https://images.prom.ua/3401765731_rolevoj-kostyum-medsestry.jpg</picture>
+      </offer>
+      <offer id="X00000225-1" available="true">
+        <price>309</price>
+        <vendorCode>X00000225-1</vendorCode>
+        <url>https://mysex.in.ua/p1559967259-seksualnyj-kostyum-gornichnoj.html</url>
+        <currencyId>UAH</currencyId>
+        <categoryId>105010124</categoryId>
+        <name>Сексуальный костюм горничной - S-M - Красный - Ролевые костюмы</name>
+        <quantity_in_stock>2</quantity_in_stock>
+        <name_ua>Сексуальний костюм покоївки - S-M - Червоний - Рольові костюми</name_ua>
+        <description><![CDATA[Хотите поиграть в сексуальную игру "Горничная и Хозяин"? Тогда совратить Вашего любимого работодателя в игре поможет Вам сексуальный костюм горничной.
+
+
+
+Подходит на размер: S-M]]></description>
+        <description_ua><![CDATA[Хочете пограти в сексуальну гру "Покоївка і Господар"? Тоді спокусити Вашого улюбленого роботодавця у грі допоможе Вам сексуальний костюм покоївки.
+
+Підходить на розмір: S-M]]></description_ua>
+        <picture>https://images.prom.ua/3401635697_seksualnyj-kostyum-gornichnoj.jpg</picture>
+        <picture>https://images.prom.ua/3401635696_seksualnyj-kostyum-gornichnoj.jpg</picture>
       </offer>
       <offer id="X00000195-4" available="true">
         <price>98</price>
