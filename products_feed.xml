@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-07 15:49">
+<yml_catalog date="2026-02-07 16:30">
   <shop>
     <name>mysex</name>
     <company>mysex</company>
@@ -31873,6 +31873,35 @@ L - 4*12 (см)
 Колір: зелений]]></description_ua>
         <picture>https://images.prom.ua/3397021047_vibrator-babochka-usb.jpg</picture>
         <picture>https://images.prom.ua/3397021041_vibrator-babochka-usb.jpg</picture>
+      </offer>
+      <offer id="X0000023-1" available="true">
+        <price>129</price>
+        <vendorCode>X0000023-1</vendorCode>
+        <url>https://mysex.in.ua/p1618750317-muzhskie-trusy-babochka.html</url>
+        <currencyId>UAH</currencyId>
+        <categoryId>105010129</categoryId>
+        <name>Мужские трусы &quot;Бабочка&quot; - Чёрный -  M - XL</name>
+        <quantity_in_stock>40</quantity_in_stock>
+        <name_ua>Чоловічі труси &quot;Метелик&quot; - Чорний - M - XL</name_ua>
+        <description><![CDATA[Отличный вариант подарка своему партнёру.
+
+Отличное качество, очень хорошо тянется. Эластичные резинки делают трусы универсальными по размеру. Сделаны из приятного для тела материала.
+Размер универсальный, подходит от M до XL.
+
+Состав: хлопок, спандекс.
+Цвет: черный]]></description>
+        <description_ua><![CDATA[Відмінний варіант подарунка своєму партнеру.
+
+Відмінна якість, дуже добре тягнеться. Еластичні резинки роблять труси універсальними за розміром. Зроблені з приємного для тіла матеріалу.
+
+Розмір універсальний, підходить від M до XL.
+
+Склад: бавовна, спандекс.
+
+Колір: чорний]]></description_ua>
+        <picture>https://images.prom.ua/3594335996_muzhskie-trusy-babochka.jpg</picture>
+        <picture>https://images.prom.ua/4799031308_muzhskie-trusy-babochka.jpg</picture>
+        <picture>https://images.prom.ua/4799031309_muzhskie-trusy-babochka.jpg</picture>
       </offer>
       <offer id="X00000226-1" available="true">
         <price>117</price>
