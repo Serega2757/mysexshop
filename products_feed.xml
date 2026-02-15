@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-15 16:31">
+<yml_catalog date="2026-02-15 17:29">
   <shop>
     <name>mysex</name>
     <company>mysex</company>
@@ -14348,6 +14348,28 @@ Translated with DeepL.com (free version)]]></description_ua>
         <picture>https://images.prom.ua/5233652635_parik-rovnyj-anime.jpg</picture>
         <picture>https://images.prom.ua/5233652604_parik-rovnyj-anime.jpg</picture>
         <picture>https://images.prom.ua/5233652614_parik-rovnyj-anime.jpg</picture>
+      </offer>
+      <offer id="X0000862-2" available="true">
+        <price>391</price>
+        <vendorCode>X0000862-2</vendorCode>
+        <url>https://mysex.in.ua/p2053900023-parik-rovnyj-anime.html</url>
+        <currencyId>UAH</currencyId>
+        <categoryId>120703744</categoryId>
+        <name>Парик ровный аниме 70см без челки &quot;Блондинка&quot;</name>
+        <quantity_in_stock>15</quantity_in_stock>
+        <name_ua>Перука рівна аніме 70 см без чубчика  &quot;Блондинка&quot;</name_ua>
+        <description><![CDATA[Такой парик станет главным штрихом вашего праздничного или тематического образа. Длинные волосы способны моментально превратить в сказочного персонажа любую девушку или парня.
+
+Без челки
+
+Отличное качество делает волосы очень похожими на натуральные - как внешне, так и на ощупь.]]></description>
+        <description_ua><![CDATA[Така перука стане головним штрихом вашого святкового або тематичного образу. Довге волосся здате миттєво перетворити на казкового персонажа будь-яку дівчину чи хлопця.
+
+Без чубчика 
+
+Чудова якість робить волосся дуже схожим на натуральні — як зовні, так і на дотик.]]></description_ua>
+        <picture>https://images.prom.ua/5233619030_parik-rovnyj-anime.jpg</picture>
+        <picture>https://images.prom.ua/5233619032_parik-rovnyj-anime.jpg</picture>
       </offer>
       <offer id="X0000862-1" available="true">
         <price>391</price>
