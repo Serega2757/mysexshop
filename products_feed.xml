@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-22 12:29">
+<yml_catalog date="2026-02-22 13:25">
   <shop>
     <name>mysex</name>
     <company>mysex</company>
@@ -27624,6 +27624,32 @@ L - 4*12 (см)
         <picture>https://images.prom.ua/4068595599_nosochki-setka-s.jpg</picture>
         <picture>https://images.prom.ua/4068595596_nosochki-setka-s.jpg</picture>
         <picture>https://images.prom.ua/4068595598_nosochki-setka-s.jpg</picture>
+      </offer>
+      <offer id="X0000475-2" available="true">
+        <price>101</price>
+        <vendorCode>X0000475-2</vendorCode>
+        <url>https://mysex.in.ua/p1705702056-otkrytyj-kruzhevnoj-komplekt.html</url>
+        <currencyId>UAH</currencyId>
+        <categoryId>105010125</categoryId>
+        <name>Открытый кружевной комплект - Белый – XS/S - Эротическое бельё</name>
+        <name_ua>Відкритий мереживний комплект - Білий - XS/S - Еротична білизна</name_ua>
+        <description><![CDATA[Эротический кружевной комплект 
+
+Цвет: Белый
+
+Материал: 90% полиестер, 10% спандекс.
+
+Подходит на размер: XS/S]]></description>
+        <description_ua><![CDATA[Еротичний мереживний комплект 
+
+Колір: Білий
+
+Матеріал: 90% поліестер, 10% спандекс.
+
+Підходить на розмір: XS/S]]></description_ua>
+        <picture>https://images.prom.ua/4068559314_otkrytyj-kruzhevnoj-komplekt.jpg</picture>
+        <picture>https://images.prom.ua/4604580046_otkrytyj-kruzhevnoj-komplekt.jpg</picture>
+        <picture>https://images.prom.ua/4604580171_otkrytyj-kruzhevnoj-komplekt.jpg</picture>
       </offer>
       <offer id="X0000475-1" available="true">
         <price>101</price>
