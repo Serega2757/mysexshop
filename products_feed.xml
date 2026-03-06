@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-06 19:38">
+<yml_catalog date="2026-03-06 20:53">
   <shop>
     <name>mysex</name>
     <company>mysex</company>
@@ -32923,6 +32923,32 @@ L - 4*12 (см)
         <picture>https://images.prom.ua/3572978448_ochen-krasivyj-komplekt.jpg</picture>
         <picture>https://images.prom.ua/3572978446_ochen-krasivyj-komplekt.jpg</picture>
         <picture>https://images.prom.ua/3572978445_ochen-krasivyj-komplekt.jpg</picture>
+      </offer>
+      <offer id="X0000387" available="true">
+        <price>92</price>
+        <vendorCode>X0000387</vendorCode>
+        <url>https://mysex.in.ua/p1559967364-analnyj-dush-klizma.html</url>
+        <currencyId>UAH</currencyId>
+        <categoryId>105010127</categoryId>
+        <name>Анальный душ (Клизма) 360 мл – Анальные игрушки</name>
+        <quantity_in_stock>11</quantity_in_stock>
+        <name_ua>Анальний душ (Клізма) 360 мл - Анальні іграшки</name_ua>
+        <description><![CDATA[Незаменимый аксессуар для любителей анального секса!
+
+С его помощью производится щадящее очищение кишечника перед половым актом.
+
+Анальный душ имеет мягкую грушу и тонкий наконечник, который обеспечивает деликатное безболезненное введение в анус, с которым справятся даже малоопытные пользователи.
+
+Этот аксессуар позволяет сделать стенки ануса более эластичными, тем самым подготовить их к интенсивному воздействию.]]></description>
+        <description_ua><![CDATA[Незамінний аксесуар для любителів анального сексу!
+
+З його допомогою проводиться щадне очищення кишечника перед статевим актом.
+
+Анальний душ має м'яку грушу і тонкий наконечник, який забезпечує делікатне безболісне введення в анус, з яким впораються навіть малодосвідчені користувачі.
+
+Цей аксесуар дає змогу зробити стінки ануса більш еластичними, тим самим підготувати їх до інтенсивного впливу.]]></description_ua>
+        <picture>https://images.prom.ua/3848038152_analnyj-dush-klizma.jpg</picture>
+        <picture>https://images.prom.ua/3565742571_analnyj-dush-klizma.jpg</picture>
       </offer>
       <offer id="X0000380" available="true">
         <price>115</price>
