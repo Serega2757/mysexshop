@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-25 19:07">
+<yml_catalog date="2026-03-25 21:00">
   <shop>
     <name>mysex</name>
     <company>mysex</company>
@@ -37123,6 +37123,27 @@ L - 4*12 (см)
         <picture>https://images.prom.ua/3272593715_vibrator-zajchik-boyce.jpg</picture>
         <picture>https://images.prom.ua/3272593717_vibrator-zajchik-boyce.jpg</picture>
         <picture>https://images.prom.ua/3272593716_vibrator-zajchik-boyce.jpg</picture>
+      </offer>
+      <offer id="X0000034-2" available="true">
+        <price>89</price>
+        <vendorCode>X0000034-2</vendorCode>
+        <url>https://mysex.in.ua/p1559966945-mini-vibrator-dlya.html</url>
+        <currencyId>UAH</currencyId>
+        <categoryId>105010128</categoryId>
+        <name>Мини вибратор для клитора &quot;Помада&quot; - Чёрный – Вибраторы</name>
+        <name_ua>Міні вібратор для клітора &quot;Помада&quot; - Чорний - Вібратори</name_ua>
+        <description><![CDATA[Если вы ищите мини вибромассажер, который максимально замаскирован, то это идеальный выбор!
+
+Вы можете его носить в сумке, в любое время и в любом месте, никто не догадается об настоящем назначении этой озорной вещици.
+
+Цвет: черный]]></description>
+        <description_ua><![CDATA[Якщо ви шукайте міні вібромасажер, який максимально замаскований, то це ідеальний вибір!
+
+Ви можете його носити в сумці, в будь-який час і в будь-якому місці, ніхто не здогадається про справжнє призначення цієї пустотливої штучки.
+Колір: чорний]]></description_ua>
+        <picture>https://images.prom.ua/3272593707_mini-vibrator-dlya.jpg</picture>
+        <picture>https://images.prom.ua/3272593706_mini-vibrator-dlya.jpg</picture>
+        <picture>https://images.prom.ua/3839616838_mini-vibrator-dlya.jpg</picture>
       </offer>
       <offer id="X0000034-1" available="true">
         <price>89</price>
