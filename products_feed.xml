@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-17 16:27">
+<yml_catalog date="2026-04-17 17:58">
   <shop>
     <name>mysex</name>
     <company>mysex</company>
@@ -38036,6 +38036,26 @@ Roger Five дуже простий у використанні та догляд
         <picture>https://images.prom.ua/4485068766_kozhanyj-oshejnik-s.jpg</picture>
         <picture>https://images.prom.ua/3267327466_kozhanyj-oshejnik-s.jpg</picture>
         <picture>https://images.prom.ua/4485068773_kozhanyj-oshejnik-s.jpg</picture>
+      </offer>
+      <offer id="X00000010-3" available="true">
+        <price>92</price>
+        <vendorCode>X00000010-3</vendorCode>
+        <url>https://mysex.in.ua/p1559966892-naruchniki-sladkie-okovy.html</url>
+        <currencyId>UAH</currencyId>
+        <categoryId>105010126</categoryId>
+        <name>Наручники &quot;Сладкие оковы&quot; - Розовый – Садо-мазо</name>
+        <name_ua>Наручники &quot;Солодкі кайданки&quot; - Рожевий - Садо-мазо</name_ua>
+        <description><![CDATA[Металлические наручники, покрытые мягким плюшем. Плюш можно снять!
+Открываются ключом (2 шт.) или щелчком.
+Цвет: розовый]]></description>
+        <description_ua><![CDATA[Металеві наручники, вкриті м'яким плюшем. Плюш можна зняти!
+
+Відкриваються ключем (2 шт.) або клацанням.
+
+Колір: рожевий]]></description_ua>
+        <picture>https://images.prom.ua/3267327157_naruchniki-sladkie-okovy.jpg</picture>
+        <picture>https://images.prom.ua/3267327155_naruchniki-sladkie-okovy.jpg</picture>
+        <picture>https://images.prom.ua/3267327156_naruchniki-sladkie-okovy.jpg</picture>
       </offer>
       <offer id="X00000010-1" available="true">
         <price>92</price>
